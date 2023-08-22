@@ -2,7 +2,7 @@
 
 --COVID DEATHS
 
-SELECT *
+> SELECT *
 FROM 
 covid.covid_deaths    --Quick preview of the covid_deaths table
 WHERE continent is not null
