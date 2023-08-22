@@ -168,4 +168,3 @@ deaths.location = vaccinations.location
 AND deaths.date = vaccinations.date
 WHERE deaths.continent is not null
 )
-
